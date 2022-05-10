@@ -30,6 +30,8 @@ const int RIGHT_FRONT_IN2 = 46;
 int driveDirection;
 // 1 = forward
 // 2 = reverse
+// 3 = left
+// 4 = right
 // 0 = stop
 
 
