@@ -18,7 +18,7 @@ const byte slaveAddress[5] = {'R','x','A','A','A'};
 
 RF24 radio(CE_PIN, CSN_PIN); // Create a Radio
 
-char dataToSend[2] = "00";
+char dataToSend[3] = "00";
 
 char txNum1 = '0';
 char txNum2 = '0';
